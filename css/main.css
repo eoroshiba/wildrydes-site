@@ -10,8 +10,7 @@
   text-transform:uppercase;
   padding:.3125rem 1.5625rem;
   position:static;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 /*   left:50%;
   bottom:5%; */
   -webkit-transform:translateX(-50%);
