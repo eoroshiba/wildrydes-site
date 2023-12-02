@@ -219,7 +219,7 @@ input[type=text]:valid, input[type=password]:valid {
 } /* This is a quick fix to get an authorization / valid entry state without using JS */
 
 input[type=submit] {
-    width: 200px;
+    width: fit-content;
     background-color: white;
     color: #f50856;
     padding: 14px 20px;
